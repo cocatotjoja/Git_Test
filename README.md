@@ -4,9 +4,45 @@ Web EDIT
 Web EDIT 2
 Catja Test 001
 
-Volvo go  vroom big vehcile
+<<<<<<< HEAD
+Bolvo go  vroom big vehcile
 Aaron test1
 Gabriel edit 1
+
+
+
+
+
+jhjj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -17,3 +53,7 @@ Gabriel edit 1
 
 
 aaron test 2
+=======
+Volvo go vroom vroom
+Aaron is scary
+>>>>>>> 15f33d59036031d7cd64df614fc4e32fdf1f5942
